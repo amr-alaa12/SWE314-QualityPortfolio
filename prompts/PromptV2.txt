@@ -1,1 +1,29 @@
+Create a complete and well-structured Library Management System as a Minimum Viable Product (MVP) using HTML, CSS, JavaScript, PHP, and MySQL.
 
+Requirements:
+
+Frontend:
+- Responsive and modern user interface
+- Login page
+- Dashboard after login
+- Search books by title or author
+- View detailed information about each book
+- Borrow available books
+- Return borrowed books
+- View borrowed books
+
+Backend:
+- User authentication
+- MySQL database connection
+- Store books and borrowing records
+- Prevent borrowing unavailable books
+- Update book availability after returning
+
+Code Quality:
+- Organize files into separate folders (css, js, config, images)
+- Use clean, readable, and commented code
+- Validate user input
+- Handle errors gracefully
+- Follow good programming practices
+
+Generate all source code, database scripts, and project files needed to run the application.
