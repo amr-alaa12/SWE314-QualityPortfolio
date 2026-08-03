@@ -1,1 +1,10 @@
+Create a Library Management System using HTML, CSS, JavaScript, PHP, and MySQL.
 
+The system should include:
+- Login
+- Search Books
+- View Book Details
+- Borrow Books
+- Return Books
+
+Generate the complete source code.
